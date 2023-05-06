@@ -8,7 +8,7 @@ Game allows for play on multiple slots and decks to help to strategize.
 
 Full rules and tips: https://www.cs.mcgill.ca/~rwest/wikispeedia/wpcd/wp/b/Blackjack.htm
 
-TLDR
+TL;DR:
 Cards 2 through 10 are worth their face value, face cards (jack, queen, king) are also worth 10. An ace's value is 11 or 1.
 Whoever gets total sum of thier cards closest to 21 (player or dealer) - wins.
 Exceeding 21 will loose hand on the spot (hand will be thrown out and bet will be lost).
